@@ -12,15 +12,6 @@
 
 ## Chọn top 3
 
-Tiêu chí chọn:
-
-- Actor rõ.
-- Workflow hiện tại có thể vẽ được.
-- Bottleneck cụ thể.
-- Impact có thể đo hoặc ước lượng.
-- Có thể so sánh No AI / Rule / Workflow / Agent.
-- Không quá rộng cho một buổi lab.
-
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
 | 1 | Viết báo cáo hàng tuần và họp với team | Actor rõ, workflow rõ ràng: thu thập data -> tổng hợp -> Format | Văn phong báo cáo của AI có thể bị lan man hoặc quá súc tích khó hiểu |
