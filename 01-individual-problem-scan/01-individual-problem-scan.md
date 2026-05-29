@@ -62,6 +62,8 @@ Quick gut:
 [ ] Chưa biết
 ```
 ## Problem Card Planning and Task Assigning
+
+```text
 Problem 2 câu:
 Lên kế hoạch tuần và phân chia task tốn nhiều công sức suy luận, đồng thời AI Agent có thể phân sai việc do không nắm rõ skill thực tế của từng member.
 
@@ -99,9 +101,10 @@ Quick gut:
 [ ] Workflow
 [x] Agent
 [ ] Chưa biết
-
+```
 ## Problem Card Code Reviewing
 
+```text
 Problem 3 câu:
 Review code thủ công cực kỳ tốn thời gian và dễ sót lỗi, tuy nhiên AI Agent có rủi ro chỉ bắt được lỗi cú pháp (syntax) mà không hiểu được logic nghiệp vụ của dự án.
 
@@ -139,3 +142,4 @@ Quick gut:
 [ ] Workflow
 [x] Agent
 [ ] Chưa biết
+```
